@@ -1,6 +1,6 @@
 ### Hi there, I'm Jakr Hossain Niloy-[JakirNiloy][website] 👋
 
-[![Website]](https://niloyvaw.blogspot.com/)
+
 
 
 ## I'm a Student, Self-Learner and Developer!!
