@@ -1,5 +1,5 @@
 ### Hi there, I'm Jakr Hossain Niloy-[JakirNiloy][website] 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakirniloy&label=Views&color=blue&style=plastic" alt="jakirniloy" /> </p>
 
 
 
