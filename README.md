@@ -64,4 +64,4 @@
 [instagram]: https://www.instagram.com/jakir_h_niloy
 [website]:https://www.jakirniloy.me/
 [website_achievement]: https://www.jakirniloy.me/
-[linkedin]: https://www.linkedin.com/in/md-jakir-hossain-a95712165/
+[linkedin]: https://www.linkedin.com/in/jakirniloy
