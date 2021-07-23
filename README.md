@@ -60,7 +60,7 @@
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![jakirniloy snake gif](https://github.com/jakirniloy/believeInJha/blob/output/github-contribution-grid-snake.svg)   
+![jakirniloy snake gif](https://github.com/jakirniloy/jakirniloy/blob/output/github-contribution-grid-snake.svg)   
 
 ---
 
