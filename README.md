@@ -61,13 +61,13 @@
 
 <br />
 <br />
-
+<hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JakirNiloy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jakirniloy" /></a></p><br><br>
 
 
 
----
+<hr>
 
 
 
@@ -88,7 +88,7 @@
 </p>
 
 ## 📊 My Github Stats
-
+<hr>
   <br/>
     <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="Jakir Niloy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jakirniloy/github-readme-stats"><img alt="Jakir Niloy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -108,6 +108,7 @@
 <br />
 
 ### Watch my contribution graph get eaten by the snake 🐍
+<hr>
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![jakirniloy snake gif](https://github.com/jakirniloy/jakirniloy/blob/output/github-contribution-grid-snake.svg) 
