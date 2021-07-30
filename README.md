@@ -1,5 +1,5 @@
 
-<p align="center>
+<p align=""left>
 <a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/48614476/127693637-a0bb41b5-e45e-45cd-9b80-f7f8a7bc1ca5.png" height="175px"/></a>
 </p>
 <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy 👋</h1> 
