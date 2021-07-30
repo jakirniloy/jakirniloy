@@ -1,4 +1,4 @@
-<a href="www.jakirniloy.me"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/-JHLdxP9m2cA/YQQ9HdHMgwI/AAAAAAAA-LM/vPaAeZegu2IPGOi3ev_U7P-LsBmeqBKUQCLcBGAsYHQ/Programmer-rafiki.png" height="175px"/></a>
+<a href="www.jakirniloy.me"><img width="50%" height="auto" src="https://lh3.googleusercontent.com/-JHLdxP9m2cA/YQQ9HdHMgwI/AAAAAAAA-LM/vPaAeZegu2IPGOi3ev_U7P-LsBmeqBKUQCLcBGAsYHQ/Programmer-rafiki.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy 👋</h1> 
 <h3 align="center">I'm a Student, Self-Learner and Developer!!</h3>
