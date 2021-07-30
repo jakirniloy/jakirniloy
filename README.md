@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jakir Hossain Niloy - [JakirNiloy][website] 👋</h1>
+<h1 align="center">#Hi 👋, I'm Jakir Hossain Niloy - [JakirNiloy][website] 👋</h1>
 <h3 align="center">I'm a Student, Self-Learner and Developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakirniloy&label=Profile%20views&color=0e75b6&style=flat" alt="jakirniloy" /> </p>
@@ -57,7 +57,7 @@
 
 ---
 
-<img align="left" alt="jakirniloy's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy" />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakirniloy&show_icons=true&locale=en&layout=compact" alt="jakirniloy" /></p>
 
@@ -67,9 +67,7 @@
 
 ---
 
-<a href="https://github.com/jakirniloy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&theme=light&line_height=27" alt="jakirniloy's github stats"/>
-</a>
+
 
   
 
