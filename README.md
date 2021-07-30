@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<a href="#"><img width="50%" height="auto" src="https://user-images.githubusercontent.com/48614476/127693515-65f38955-27ae-4ccc-a966-62cda7e0ee25.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy 👋</h1> 
 <h3 align="center">I'm a Student, Self-Learner and Developer!!</h3>
