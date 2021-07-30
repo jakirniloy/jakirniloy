@@ -1,4 +1,6 @@
 
+![Visual data-pana](https://user-images.githubusercontent.com/48614476/127691085-b3c34c4c-fc86-4b17-bc88-32a3174a7a6f.png)
+
 <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy 👋</h1> 
 <h3 align="center">I'm a Student, Self-Learner and Developer!!</h3>
 
@@ -10,11 +12,21 @@
 
 
 
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Django ♥
-- 🥅 2021 Goals: To become a successful  Web developer
-- 🔭 Moreover, I'm a self-learner and I love to find new technology.
-- ⚡ Fun fact: I love to spend time with friends
+
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jakirniloy.github.io)**
+
+- 🥅 2021 Goals: **To become a successful web developer**
+
+- 📫 How to reach me **mdjakirhossen13@gmail.com**
+
+- ⚡ Fun fact **I love to spend time with friends**
+
+<br/>
+<br/>
 
 
 ### Connect with me:
@@ -63,7 +75,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&locale=en" alt="jakirniloy" /></p>
 
+<a href="https://github.com/jakirniloy/github-readme-stats"><img alt="jakirniloy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=white" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakirniloy&" alt="jakirniloy" /></p>
+
+
 
 ---
 
