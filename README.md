@@ -1,6 +1,7 @@
 
 <div align=""left>
-![www jakirniloy me](https://user-images.githubusercontent.com/48614476/144810106-481c3700-a7e6-46dd-a9ec-b3942d9e8911.png)
+ <a href="https://www.jakirniloy.me/"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/48614476/144810106-481c3700-a7e6-46dd-a9ec-b3942d9e8911.png" height="175px"/></a>
+
 
 </div>
 <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy 👋</h1> 
