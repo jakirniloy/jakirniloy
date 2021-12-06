@@ -1,6 +1,6 @@
 
 <div align=""left>
- <a href="https://www.jakirniloy.me/"><img width="50%" height="auto" align="center" src="https://user-images.githubusercontent.com/48614476/144810106-481c3700-a7e6-46dd-a9ec-b3942d9e8911.png" height="100px"/></a>
+ <a href="https://www.jakirniloy.me/"><img width="50%" height="auto" align="middle" src="https://user-images.githubusercontent.com/48614476/144810106-481c3700-a7e6-46dd-a9ec-b3942d9e8911.png" height="100px"/></a>
 
 
 </div>
