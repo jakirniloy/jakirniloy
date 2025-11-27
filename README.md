@@ -22,15 +22,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jakirniloy.github.io)**
-
-- 🥅 2021 Goals: **To become a successful web developer**
-
-- 📫 How to reach me **mdjakirhossen13@gmail.com**
-
-- ⚡ Fun fact **I love to spend time with friends**
+I am Jakir Hossain Niloy, a dedicated researcher and aspiring PhD candidate with strong academic and professional experience in Data Science, Artificial Intelligence, and Computer Vision. I completed my BSc in Computer Science and Engineering in June 2023 and am currently pursuing an MS in CSE at East West University, where I maintain a strong CGPA. Alongside my studies, I work as a Graduate Teaching Assistant and serve as the Vice President of the EWU Computer Programming Club. My research focuses on Machine Learning, Deep Learning, NLP, Transformers, Medical Image Analysis, and Explainable AI. I have hands-on experience developing CNN and Transformer-based models for tasks such as skin lesion classification, diabetic retinopathy analysis, and brain tumor detection. I actively collaborate on research projects, assist Professor Dr. Ahmed Wasif Reza, and continue building a strong publication and project portfolio. Driven, disciplined, and highly motivated, I am now seeking PhD opportunities where I can contribute to impactful AI research and advance toward a career in academia and innovatio
 
 <br/>
 <br/>
