@@ -8,15 +8,22 @@
  
 
 </div>
-<!-- <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy 👋</h1>  -->
-<h3 align="center">I'm a Student, Self-Learner and Developer!!</h3>
+<!-- <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy</h1> -->
+<h3 align="center"> Self-Learner | Researcher | Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakirniloy&label=Profile%20views&color=0e75b6&style=flat" alt="jakirniloy" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jakirniloy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jakirniloy" alt="jakirniloy" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jakirniloy" alt="Trophies" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
 
 ## 🙋‍♂️ About Me
