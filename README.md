@@ -29,7 +29,7 @@
 ## 🙋‍♂️ About Me
 
 
-I am Jakir Hossain Niloy, a dedicated researcher and aspiring PhD candidate with strong academic and professional experience in Data Science, Artificial Intelligence, and Computer Vision. I completed my BSc in Computer Science and Engineering in June 2023 and am currently pursuing an MS in CSE at East West University, where I maintain a strong CGPA. Alongside my studies, I work as a Graduate Teaching Assistant and serve as the Vice President of the EWU Computer Programming Club. My research focuses on Machine Learning, Deep Learning, NLP, Transformers, Medical Image Analysis, and Explainable AI. I have hands-on experience developing CNN and Transformer-based models for tasks such as skin lesion classification, diabetic retinopathy analysis, and brain tumor detection. I actively collaborate on research projects, assist Professor Dr. Ahmed Wasif Reza, and continue building a strong publication and project portfolio. Driven, disciplined, and highly motivated, I am now seeking PhD opportunities where I can contribute to impactful AI research and advance toward a career in academia and innovatio
+I am Jakir Hossain Niloy, a dedicated researcher and aspiring PhD candidate with strong academic and professional experience in Data Science, Artificial Intelligence, and Computer Vision. I completed my BSc in Computer Science and Engineering in June 2023 and am currently pursuing an MS in CSE at East West University, where I maintain a strong CGPA. Alongside my studies, I work as a Graduate Teaching Assistant and serve as the Vice President of the EWU Computer Programming Club. My research focuses on Machine Learning, Deep Learning, NLP, Transformers, Medical Image Analysis, and Explainable AI. I have hands-on experience developing CNN and Transformer-based models for tasks such as skin lesion classification, diabetic retinopathy analysis, and brain tumor detection. I actively collaborate on research projects, assist Professor Dr. Ahmed Wasif Reza, and continue building a strong publication and project portfolio. Driven, disciplined, and highly motivated, I am now seeking PhD opportunities where I can contribute to impactful AI research and advance toward a career in academia and innovation.
 
 <br/>
 <br/>
@@ -79,19 +79,13 @@ I am Jakir Hossain Niloy, a dedicated researcher and aspiring PhD candidate with
 
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&locale=en" alt="jakirniloy" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakirniloy&show_icons=true&locale=en&layout=compact" alt="jakirniloy" /></p>
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakirniloy&" alt="jakirniloy" /></p> -->
-
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/jakirniloy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jakir Niloy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jakirniloy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 <hr>
