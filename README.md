@@ -19,11 +19,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jakirniloy" alt="Trophies" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-</p>
+</p> -->
 
 
 ## 🙋‍♂️ About Me
