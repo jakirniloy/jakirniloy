@@ -1,14 +1,14 @@
 
 <div align=""left>
- <a href="https://www.jakirniloy.me/"><img width="100%" height="auto" align="middle" src="https://user-images.githubusercontent.com/48614476/163666159-f257dbb3-d670-4250-a2f5-4d19c31065cc.png" height="100px"/></a>
-
+ <!-- <a href="https://www.jakirniloy.me/"><img width="100%" height="auto" align="middle" src="https://user-images.githubusercontent.com/48614476/163666159-f257dbb3-d670-4250-a2f5-4d19c31065cc.png" height="100px"/></a>
+ -->
 
 
 
  
 
 </div>
-<!-- <h1 align="center">Hi 👋, I'm Jakir Hossain Niloy</h1> -->
+<h1 align="center">Hi 👋, I'm Jakir Hossain Niloy</h1>
 <h3 align="center"> Self-Learner | Researcher | Data Scientist</h3>
 
 <p align="center">
