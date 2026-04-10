@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.jakirniloy.me/">
+  <a href="https://jakirniloy.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   &nbsp;
@@ -155,7 +155,7 @@ me.say_hi()
 
 | Platform | Link |
 |:---|:---|
-| 🌐 **Portfolio** | [jakirniloy.me](https://www.jakirniloy.me/) |
+| 🌐 **Portfolio** | [jakirniloy.me](https://jakirniloy.github.io/) |
 | 💼 **LinkedIn** | [linkedin.com/in/jakirniloy](https://www.linkedin.com/in/jakirniloy) |
 | 📘 **Facebook** | [JakirNiloy2](https://www.facebook.com/JakirNiloy2) |
 | 📸 **Instagram** | [@jakir_h_niloy](https://www.instagram.com/jakir_h_niloy) |
