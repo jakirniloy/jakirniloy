@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.jakirniloy.me/">
+  <a href="https://jakirniloy.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   &nbsp;
@@ -20,10 +20,11 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/JakirNiloy2">
-    <img src="https://img.shields.io/badge/MD%20Jakir%20Hossain%20%7C%20AI%20Researcher%20%26%20Engineer-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/JakirNil0y/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
 
 
 </div>
