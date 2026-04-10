@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jakir+Hossain+👋;Researcher+%7C+Data+Scientist+%7C+AI+Engineer;Building+the+Future+with+AI+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jakir+Hossain+👋;pResearcher+%7C+Data+Scientist+%7C+AI+Engineer;Building+the+Future+with+AI+🚀)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jakir%20Hossain%20Niloy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Researcher%20%7C%20Data%20Scientist%20%7C%20Aspiring%20PhD%20Candidate&descAlignY=55&descSize=16" width="100%"/>
 
