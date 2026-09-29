@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ HEADER BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Jakir%20Hossain%20Niloy&fontSize=52&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Aspiring%20PhD%20Candidate&descAlignY=60&descSize=18&descColor=E0F7FF" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Jakir%20Hossain%20Niloy&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20Aspiring%20PhD%20Candidate&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://jakirniloy.github.io/">
@@ -15,7 +15,7 @@
   <a href="https://jakirniloy.github.io/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0F2027" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/jakirniloy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://kaggle.com/mdjakirhossen"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="mailto:jakirhossainniloy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mdjakirhossen13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p>
@@ -265,12 +265,12 @@ I am always interested in **Medical AI**, **LLM fine-tuning**, and **Computer Vi
 
 | 🌐 Portfolio | 💼 LinkedIn | 📊 Kaggle | 📧 Email |
 |:---:|:---:|:---:|:---:|
-| [jakirniloy.github.io](https://jakirniloy.github.io/) | [in/jakirniloy](https://www.linkedin.com/in/jakirniloy) | [mdjakirhossen](https://kaggle.com/mdjakirhossen) | [jakirhossainniloy@gmail.com](mailto:jakirhossainniloy@gmail.com) |
+| [jakirniloy.github.io](https://jakirniloy.github.io/) | [in/jakirniloy](https://www.linkedin.com/in/jakirniloy) | [mdjakirhossen](https://kaggle.com/mdjakirhossen) | [mdjakirhossen13@gmail.com](mailto:mdjakirhossen13@gmail.com) |
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8FE9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%E2%80%94+let's+build+something+impactful+%E2%9C%A8" alt="Footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
