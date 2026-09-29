@@ -244,13 +244,10 @@ Production-ready **FastAPI** service that converts complex PDF documents into cl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_bold=true&bg_color=0F2027" height="180" alt="GitHub Stats"/>
-&nbsp;
+
 <img src="https://streak-stats.demolab.com?user=jakirniloy&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0F2027" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&langs_count=8&bg_color=0F2027" height="160" alt="Top Languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakirniloy&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" width="100%" alt="Contribution Graph"/>
 
 </div>
 
