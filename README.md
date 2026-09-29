@@ -1,41 +1,64 @@
 <div align="center">
 
-<!-- Animated Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jakir%20Hossain%20Niloy&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20%7C%20Data%20Scientist%20%7C%20Aspiring%20PhD%20Candidate&descAlignY=60&descSize=17" width="100%"/>
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Jakir%20Hossain%20Niloy&fontSize=52&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Aspiring%20PhD%20Candidate&descAlignY=60&descSize=18&descColor=E0F7FF" width="100%" alt="Header"/>
 
-<!-- Dynamic Typing Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%26+Deep+Learning+Researcher+🔬;Fine-Tuning+Medical+LLMs+%26+Multimodal+AI+🧬;Graduate+Teaching+Assistant+%40+EWU+🎓;Computer+Vision+%7C+NLP+%7C+Explainable+AI+💡;Aspiring+PhD+Candidate+🚀" alt="Typing SVG" />
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<a href="https://jakirniloy.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=820&height=45&lines=Medical+AI+%26+Multimodal+Healthcare+%F0%9F%A7%AC;Fine-Tuning+LLMs+with+QLoRA+%26+PEFT+%F0%9F%A4%96;Computer+Vision+%7C+NLP+%7C+Explainable+AI+%F0%9F%91%81%EF%B8%8F;Graduate+Teaching+Assistant+%40+East+West+University+%F0%9F%8E%93;Preparing+PhD+Applications+in+AI+%2F+ML+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile View Counter & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jakirniloy&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jakirniloy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://jakirniloy.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://kaggle.com/mdjakirhossen" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  &nbsp;
-  <a href="mailto:jakirhossainniloy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
+<p>
+  <a href="https://jakirniloy.github.io/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=0F2027" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jakirniloy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/mdjakirhossen"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:jakirhossainniloy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jakirniloy&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/jakirniloy?label=Followers&style=flat-square&color=00d9ff&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-2EA043?style=flat-square" alt="Status"/>
 </p>
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👨‍💻 &nbsp;About Me
+
+> *"Building trustworthy AI for healthcare — models that are accurate, efficient, and explainable."*
+
+I am an **AI researcher and data scientist** pursuing an **MS in Computer Science & Engineering (Data Science Track)** at **East West University (EWU), Dhaka, Bangladesh**. My work sits at the intersection of **medical AI**, **large language models**, and **computer vision**, with a strong emphasis on parameter-efficient training and model interpretability. I am currently preparing applications for **PhD programs in AI / Machine Learning**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Academic Roles
+- 🧑‍🏫 **Graduate Teaching Assistant** — East West University
+- 💻 **Vice President** — EWU Programming Club
+- 📚 **MS in CSE** — Data Science Track, EWU
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+- 🔬 Medical LLMs with QLoRA / PEFT
+- 🧬 Multimodal clinical diagnostics
+- 💡 Explainable AI for healthcare
+- 🚀 PhD applications in AI / ML
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🐍 View as Python class</b></summary>
 
 ```python
 class JakirHossainNiloy:
@@ -46,132 +69,208 @@ class JakirHossainNiloy:
         self.academics   = "MS in Computer Science & Engineering (Data Science Track)"
         self.positions   = [
             "Graduate Teaching Assistant @ EWU",
-            "Vice President @ EWU Programming Club"
+            "Vice President @ EWU Programming Club",
         ]
         self.passions    = [
             "Medical AI & Multimodal Healthcare Systems",
-            "Fine-Tuning LLMs with Parameter-Efficient Methods (PEFT/QLoRA)",
+            "Parameter-Efficient Fine-Tuning of LLMs (PEFT / QLoRA)",
             "Computer Vision & 6D Object Pose Estimation",
-            "Explainable AI (XAI)"
+            "Explainable AI (XAI)",
         ]
         self.current_goal = "Preparing PhD Applications in AI / Machine Learning 🎯"
 
     def get_in_touch(self):
-        return "Always open to research collaborations, academic inquiries, and AI innovations!"
+        return "Open to research collaborations, academic inquiries, and AI innovation!"
 
-me = JakirHossainNiloy()
-print(me.get_in_touch())
+print(JakirHossainNiloy().get_in_touch())
+```
+
+</details>
+
+---
+
+<!-- ═══════════════ RESEARCH ═══════════════ -->
+## 🔬 &nbsp;Research Interests
+
+<div align="center">
+
+<table>
+<tr>
+<th align="center" width="33%">🧬 Medical AI &amp; Healthcare</th>
+<th align="center" width="33%">🤖 Large Language Models</th>
+<th align="center" width="33%">👁️ Computer Vision &amp; Pose</th>
+</tr>
+<tr>
+<td valign="top">
+
+- Medical image classification
+- Multimodal clinical diagnostics
+- Skin lesion &amp; retinopathy analysis
+- Explainable AI (Grad-CAM, SHAP)
+
+</td>
+<td valign="top">
+
+- Parameter-efficient fine-tuning (QLoRA)
+- Domain-specific QA (PubMedQA)
+- Retrieval-Augmented Generation (RAG)
+- NLP for healthcare &amp; misinformation
+
+</td>
+<td valign="top">
+
+- 6D hand–object pose estimation
+- EfficientNet &amp; ViT architectures
+- Real-time object tracking
+- Transfer learning &amp; segmentation
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🧭 Research Workflow
+
+```mermaid
+flowchart LR
+    A[🩺 Clinical Problem] --> B[📂 Data: Images · Signals · EHR]
+    B --> C[🧠 Model: CNN · ViT · LLM]
+    C --> D[⚡ Efficient Training: QLoRA · Transfer Learning]
+    D --> E[💡 Explainability: Grad-CAM · SHAP]
+    E --> F[🚀 Deployment: FastAPI · Streamlit]
 ```
 
 ---
 
-### 🔬 Core Research Domains
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Medical-LLM-FineTuning-with-QLoRA
+Fine-tuning **Qwen2.5-3B-Instruct** on **PubMedQA** for biomedical question answering, using 4-bit quantization and PEFT for memory-efficient training.
+
+`PyTorch` · `Transformers` · `PEFT` · `QLoRA`
+
+[![View](https://img.shields.io/badge/View_Repository-00D9FF?style=flat-square&logo=github&logoColor=0F2027)](https://github.com/jakirniloy/Medical-LLM-FineTuning-with-QLoRA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 multimodal_healthcare_ai_basics
+Multimodal healthcare classification that fuses **medical imaging**, **biosignals**, and **clinical EHR notes** into a unified pipeline.
+
+`Python` · `Scikit-Learn` · `Jupyter`
+
+[![View](https://img.shields.io/badge/View_Repository-00D9FF?style=flat-square&logo=github&logoColor=0F2027)](https://github.com/jakirniloy/multimodal_healthcare_ai_basics)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 AgriFreshNET-ShelfLife
+Deep learning **Streamlit** app for fruit classification, freshness detection, and shelf-life estimation with EfficientNet.
+
+`PyTorch` · `EfficientNet` · `Streamlit`
+
+[![View](https://img.shields.io/badge/View_Repository-00D9FF?style=flat-square&logo=github&logoColor=0F2027)](https://github.com/jakirniloy/AgriFreshNET-ShelfLife)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖐️ Real-Time Hand-Object 6D Pose Estimation
+Real-time hand detection and continuous **6D object pose tracking** (position + 3D orientation).
+
+`OpenCV` · `Python` · `Deep Learning`
+
+[![View](https://img.shields.io/badge/View_Repository-00D9FF?style=flat-square&logo=github&logoColor=0F2027)](https://github.com/jakirniloy/Real-Time-Hand-Object-6D-Pose-Estimation-System)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📑 PDF-to-Markdown-API
+Production-ready **FastAPI** service that converts complex PDF documents into clean, structured Markdown.
+
+`FastAPI` · `Python` · `Uvicorn` &nbsp;&nbsp;
+[![View](https://img.shields.io/badge/View_Repository-00D9FF?style=flat-square&logo=github&logoColor=0F2027)](https://github.com/jakirniloy/PDF-to-Markdown-API)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-| 🧬 Medical AI & Healthcare | 🤖 Large Language Models (LLMs) | 👁️ Computer Vision & Pose |
-|:---:|:---:|:---:|
-| Medical Image Classification | Parameter-Efficient Fine-Tuning (QLoRA) | 6D Hand-Object Pose Estimation |
-| Multimodal Clinical Diagnostics | Domain-Specific QA (PubMedQA) | EfficientNet & ViT Architectures |
-| Skin Lesion & Retinopathy Analysis | Retrieval-Augmented Generation (RAG) | Real-time Object Tracking |
-| Explainable AI (Grad-CAM, SHAP) | NLP for Healthcare & Misinformation | Transfer Learning & Segmentation |
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,bash,postgres&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+**🧠 ML / AI Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ML"/><br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+
+<br/><br/>
+
+**📊 Data Science &amp; Visualization**<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data"/><br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+<br/><br/>
+
+**⚙️ Deployment &amp; Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode&theme=dark" alt="Tools"/><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 
 </div>
 
 ---
 
-### 🚀 Highlighted Projects & Repositories
-
-| Repository | Focus & Highlights | Tech Stack |
-|:---|:---|:---:|
-| 🩺 [**Medical-LLM-FineTuning-with-QLoRA**](https://github.com/jakirniloy/Medical-LLM-FineTuning-with-QLoRA) | Fine-tuning Qwen2.5-3B-Instruct on PubMedQA for biomedical QA using 4-bit quantization and PEFT. | `PyTorch` `Transformers` `PEFT` `QLoRA` |
-| 🏥 [**multimodal_healthcare_ai_basics**](https://github.com/jakirniloy/multimodal_healthcare_ai_basics) | Multimodal healthcare classification fusing medical imaging, biosignals, and clinical EHR notes. | `Python` `Scikit-Learn` `Jupyter` |
-| 🍎 [**AgriFreshNET-ShelfLife**](https://github.com/jakirniloy/AgriFreshNET-ShelfLife) | Deep learning Streamlit app for fruit classification, freshness detection, and shelf-life estimation. | `PyTorch` `EfficientNet` `Streamlit` |
-| 🖐️ [**Real-Time-Hand-Object-6D-Pose**](https://github.com/jakirniloy/Real-Time-Hand-Object-6D-Pose-Estimation-System) | Real-time hand detection and continuous 6D object pose tracking (position + 3D orientation). | `OpenCV` `Python` `Deep Learning` |
-| 📑 [**PDF-to-Markdown-API**](https://github.com/jakirniloy/PDF-to-Markdown-API) | Production-ready FastAPI service converting complex PDF documents into structured Markdown. | `FastAPI` `Python` `Uvicorn` |
-
----
-
-### 🛠️ Tech Stack & Tooling
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_bold=true&bg_color=0F2027" height="180" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=jakirniloy&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0F2027" height="180" alt="GitHub Streak"/>
 
-#### 🧠 Machine Learning & AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&langs_count=8&bg_color=0F2027" height="160" alt="Top Languages"/>
 
-#### 📊 Data Science & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### ⚙️ Deployment & Development Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakirniloy&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-### 📈 GitHub Metrics
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 &nbsp;Let's Collaborate
+
+I am always interested in **Medical AI**, **LLM fine-tuning**, and **Computer Vision** research, and I welcome conversations about **PhD opportunities** and academic collaboration.
 
 <div align="center">
 
-<!-- GitHub Stats & Streak Cards side-by-side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakirniloy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_bold=true" height="175" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakirniloy&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" height="175" alt="GitHub Streak" />
-</p>
+| 🌐 Portfolio | 💼 LinkedIn | 📊 Kaggle | 📧 Email |
+|:---:|:---:|:---:|:---:|
+| [jakirniloy.github.io](https://jakirniloy.github.io/) | [in/jakirniloy](https://www.linkedin.com/in/jakirniloy) | [mdjakirhossen](https://kaggle.com/mdjakirhossen) | [jakirhossainniloy@gmail.com](mailto:jakirhossainniloy@gmail.com) |
 
-<!-- Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakirniloy&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&langs_count=8" height="170" alt="Top Languages" />
-</p>
+<br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8FE9FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%E2%80%94+let's+build+something+impactful+%E2%9C%A8" alt="Footer typing"/>
 
----
-
-### 🤝 Connect & Collaborate
-
-<div align="center">
-
-I am always interested in collaborating on **Medical AI**, **LLM Fine-Tuning**, and **Computer Vision** research, as well as discussing upcoming **PhD opportunities**.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jakirniloy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="https://jakirniloy.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit_Portfolio-FF5722?style=for-the-badge&logo=googlechrome" />
-  </a>
-  &nbsp;
-  <a href="mailto:jakirhossainniloy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-<!-- Footer Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
